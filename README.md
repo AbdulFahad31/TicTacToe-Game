@@ -4,7 +4,7 @@ A simple Tic-Tac-Toe game built with Flutter.
 
 ## Preview
 
-![Tic Tac Toe UI](assets/tictactoe-preview.jpg)
+![Tic Tac Toe UI](tictactoe-preview.jpg)
 
 ## Features
 
